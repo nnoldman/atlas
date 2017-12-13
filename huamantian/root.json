@@ -1,0 +1,18 @@
+{
+	"cdn": "http://127.0.0.1/huamantian/assets",
+	"lateServers": "http://120.24.183.34/version/lastlogin.php",
+	"serverList": "http://120.24.183.34/version/maze20171205/config/servers.json",
+	"appSite": "itms-apps://itunes.apple.com/cn/app/id1227174195?mt=8",
+	"ios": {
+		"main": 1,
+		"program": 0,
+		"resource": 0,
+		"time": "20171213"
+	},
+	"android": {
+		"main": 1,
+		"program": 0,
+		"resource": 0,
+		"time": "20171213"
+	}
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "main": 1,
+        "program": 0,
+        "resource": 0,
+        "time": ""
+    },
+    "files": [
+        {
+            "name": "ab_scripts",
+            "hash": "b6068d79779c947fd345b023f6b52ab9",
+            "size": 63867,
+            "persistent": true,
+            "children": []
+        }
+    ],
+    "indices": [
+        {
+            "k": "Config/IconTable.txt",
+            "v": "ab_scripts"
+        },
+        {
+            "k": "Config/ItemTable.txt",
+            "v": "ab_scripts"
+        },
+        {
+            "k": "Config/Language.txt",
+            "v": "ab_scripts"
+        },
+        {
+            "k": "Config/TimeTable.txt",
+            "v": "ab_scripts"
+        }
+    ]
+}
